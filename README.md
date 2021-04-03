@@ -4,4 +4,3 @@ Análise de Dados públicos de Estatísticas Trabalhistas correlacionadas com a 
 # Desenvolvedores
 - [Ângelo Lima](https://github.com/angelovlima)
 - [Natália Neves](https://github.com/natalianeves18)
-- 
